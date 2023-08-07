@@ -1,0 +1,7 @@
+sitting
+standing
+walking
+running
+jumping
+hands waving
+hands opened
